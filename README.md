@@ -8,18 +8,18 @@ The laboratory team was composed by 3 members.
 ### Presentation preview
 Following are some slides taken from the powerpoint presentation used to present the study keypoints.
 
-![slide1](Slide1.jpg)
+![slide1](slides/Slide1.jpg)
 
-![slide12](Slide12.jpg)
+![slide12](slides/Slide12.jpg)
 
-![slide16](Slide16.jpg)
+![slide16](slides/Slide16.jpg)
 
-![slide20](Slide20.jpg)
+![slide20](slides/Slide20.jpg)
 
-![slide23](Slide21.jpg)
+![slide23](slides/Slide21.jpg)
 
-![slide23](Slide22.jpg)
+![slide23](slides/Slide22.jpg)
 
-![slide23](Slide23.jpg)
+![slide23](slides/Slide23.jpg)
 
-![slide24](Slide24.jpg)
+![slide24](slides/Slide24.jpg)
