@@ -16,6 +16,10 @@ Following are some slides taken from the powerpoint presentation used to present
 
 ![slide20](Slide20.jpg)
 
+![slide23](Slide21.jpg)
+
+![slide23](Slide22.jpg)
+
 ![slide23](Slide23.jpg)
 
 ![slide24](Slide24.jpg)
